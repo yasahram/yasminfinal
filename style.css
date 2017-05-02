@@ -109,7 +109,9 @@ h3, h5 {
 .author-card__headline{
 	margin-left: 420px;
 }
-
+.author-card__twitter{
+	margin-left: 40px;
+}
 /* Mobile Styles */
 
 @media (max-width: 768px) {
